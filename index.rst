@@ -7,8 +7,12 @@ Welcome to Orderflow's documentation! !@#$!QRE#!@#
 ==================================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Table Of Contents:
+
+	suppliers/index.rst
+	ordering/index.rst
+	products/index.rst	
 
 
 
