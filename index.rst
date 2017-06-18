@@ -33,3 +33,4 @@ Contents
    frequently-asked-questions/frequently-asked-questions.rst
    glossary.rst
    about.rst
+   ordering/index.rst
