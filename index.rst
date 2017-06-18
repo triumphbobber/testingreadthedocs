@@ -13,6 +13,7 @@ Welcome to Orderflow's documentation! !@#$!QRE#!@#
 	suppliers/index.rst
 	ordering/index.rst
 	products/index.rst	
+	gettingstarted.rst
 
 
 
@@ -34,3 +35,4 @@ Contents
    glossary.rst
    about.rst
    ordering/index.rst
+   gettingstarted.rst
